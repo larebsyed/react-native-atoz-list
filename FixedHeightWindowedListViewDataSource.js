@@ -375,4 +375,4 @@ class FixedHeightListViewDataSource {
   }
 }
 
-module.exports = FixedHeightListViewDataSource;
+export default FixedHeightListViewDataSource;
